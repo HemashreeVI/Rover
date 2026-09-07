@@ -33,6 +33,7 @@ setup(
             'risk_heatmap = rover_control.risk_heatmap:main',
             'detection_node = rover_control.detection_node:main',
 	    'astar_planner = rover_control.astar_planner:main',
+	    'path_follower = rover_control.path_follower:main',
         ],
     },
 )
